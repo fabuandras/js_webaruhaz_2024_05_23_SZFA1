@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300;400;500&display=swap");
+
+* {
+    font-family: "MuseoModerno", sans-serif;
+}
+
+.alcim {
+    text-align: center;
+    border-top: 2px solid black;
+}
+
+ul {
+    padding-right: 70px;
+}
+
+.nav-padding {
+    padding-right: 40px;
+}
+
+.betuszin {
+    color: black;
+}
+
+.menupontok:hover {
+    color: gray;
+    text-decoration: overline;
+}
+
+/*.fixed-top {
+    padding-right: 40px;
+    padding-top: 100px;
+}*/
